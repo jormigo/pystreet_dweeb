@@ -26,7 +26,8 @@ def get_data(ticker, start, end):
 
 def main():
     dates = [
-        '2021-04-05'
+        '2021-04-05',
+        '2021-04-10'
     ]
     for date in dates:
         starting_date = date
